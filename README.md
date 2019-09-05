@@ -118,6 +118,7 @@ AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - 
 
 ## 龙芯杯
 + 这里主要包括了一些参加龙芯杯的优秀队伍的项目，包括了第一二三届，前两届由于之前总结过，所以我会放在另一个markdown文档中。
+[龙芯杯参考资料](https://github.com/leliyliu/awesome/blob/master/%E9%BE%99%E8%8A%AF%E6%9D%AF%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99.md)
 ### [nscscc2019ucas](https://github.com/nscscc2019ucas/nscscc2019ucas)
 国科大2019年龙芯杯参赛作品
 
