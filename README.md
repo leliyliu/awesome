@@ -31,7 +31,7 @@ An Open Source Deep Learning Inference Engine Based on FPGA。这应该是浪潮
 某个人做的caffe的底层C代码的开源。
 
 ### [pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)
-中文版 Parallel Programming for FPGAs
+中文版 Parallel Programming for FPGAs.HLS工程源代码: https://github.com/xupsh/pp4fpgas-cn-hls
 
 ## <span id = "paper">论文阅读</span>
 + 主要包括了一些深度学习相关的论文阅读计划之类的，主要是一些经典论文的推荐和阅读列表。
