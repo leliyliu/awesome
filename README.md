@@ -19,10 +19,13 @@ manage my star projects on github
 刚开学，想着要规划一下后面的任务，于是开始了一波整理，今天突然意识到已经在github 上star 了不少项目，有时候想用的时候却找不到了，上网查了一下，发现相关的管理插件和网页也都不太好用，看到一个说法，如果都不愿意整理的star 项目，star起来确实也没什么用，因此还是决定好好整理一下，顺便筛查一波。
 
 ## DL_ON_FPGA
-+ 由于最近做的工作主要是关于在FPGA上做深度学习加速，因此在这里记录一下相关的工作，有一些做的比较好的可以借鉴。可以移植caffe,tensorflow,pytorch等等。
++ 由于最近做的工作主要是关于在FPGA上做深度学习加速，因此在这里记录一下相关的工作，有一些做的比较好的可以借鉴。
+
+### [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml)
+Machine learning in FPGAs using HLS。一个实现了machine learning 常规算法的hls包， translate traditional open-source machine learning package models into HLS 。
 
 ### [TF2](https://github.com/TF2-Engine/TF2)
-An Open Source Deep Learning Inference Engine Based on FPGA。这应该是浪潮科技最近刚开源的一个基于FPGA的深度学习加速开源工具，有很大的价值。
+An Open Source Deep Learning Inference Engine Based on FPGA。这应该是浪潮科技最近刚开源的一个基于FPGA的深度学习加速开源工具，有很大的价值。可以移植caffe,tensorflow,pytorch等等。但是这是基于intel 的opencl的，和HLS还有一定的区别，主要借鉴一下即可。
 
 ### [Jaffe](https://github.com/jiangwx/Jaffe)
 某个人做的caffe的底层C代码的开源。
