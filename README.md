@@ -240,3 +240,5 @@ all config file for code(配置文件)
 B站上炼数成金的公开课笔记
 ### [2019-false-news-detection-challenge](https://github.com/deping-1/2019-false-news-detection-challenge)
 智源研究院&中科院计算所-互联网虚假新闻检测挑战赛，一个开源代码。
+### [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+中文简历模板,latex
