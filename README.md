@@ -166,6 +166,9 @@ AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - 
 + [four](https://github.com/patc15/mipscpu)
 + [five](https://github.com/valar1234/MIPS)
 
+### [MIPS-OS](https://github.com/BXYMartin/MIPS-OS)
+好像是用MIPS 移植JOS的工作，可以学习一下
+
 ## Go语言
 + 由于最近Go语言比较火，其主要是运用在区块链之类的新兴技术上，所以比较感兴趣，了解了一下go语言编程，把相关的项目也star了一下，有机会可以尝试多写一写go 的相关程序。
 ### [go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming)
