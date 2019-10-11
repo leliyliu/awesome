@@ -211,6 +211,9 @@ ucore实验
 ### [AIMv6](https://github.com/davidgao/AIMv6)
 Cross-platform operating system for teaching purposes. 一个交叉的操作系统教学平台
 
+### [mit6.828-2017](https://github.com/shishujuan/mit6.828-2017)
+jos操作系统2017年相关答案，同时包括了stju 的相关exercise
+
 ## tools
 + 这里主要包含了一些工具，主要是一些相关的插件和python库的介绍，同时也包含一些其它的工具。
 ### [tflearn](https://github.com/tflearn/tflearn)
