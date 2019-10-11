@@ -97,6 +97,15 @@ YOLO源码合集
 
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
+
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+主要是清华大学计算机系本科阶段的一些相应课程的相关资料。
+
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+免费的计算机编程类中文书籍，包括了许多计算机研究方向的中文书籍，包括英文翻译过来的中文文档，很有益处。
+
 ### [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 强化学习的算法实现，与 Sutton's Book and David Silver's course配套。关于这一课程更具体的信息可以参考[强化学习](http://www.wildml.com/2016/10/learning-reinforcement-learning/)，在项目介绍中，你可以找到相关书籍和课程。
 
@@ -248,3 +257,5 @@ B站上炼数成金的公开课笔记
 智源研究院&中科院计算所-互联网虚假新闻检测挑战赛，一个开源代码。
 ### [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 中文简历模板,latex
+### [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
