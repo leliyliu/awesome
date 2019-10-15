@@ -33,6 +33,13 @@ An Open Source Deep Learning Inference Engine Based on FPGA。这应该是浪潮
 ### [pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)
 中文版 Parallel Programming for FPGAs.HLS工程源代码: https://github.com/xupsh/pp4fpgas-cn-hls
 
+### [FPGA-ZynqNet](https://github.com/pp-Innovate/FPGA-ZynqNet)
+FPGA-based ZynqNet CNN accelerator developed by Vivado_HLS\
+基于FPGA 构建的ZynqNet CNN 加速器，通过Vivado_HLS 来综合实现
+
+### [zynqnet](https://github.com/dgschwend/zynqnet)
+基于Zynq 实现的相应的CNN加速器的具体内容。
+
 ## <span id = "paper">论文阅读</span>
 + 主要包括了一些深度学习相关的论文阅读计划之类的，主要是一些经典论文的推荐和阅读列表。
 
