@@ -40,6 +40,12 @@ FPGA-based ZynqNet CNN accelerator developed by Vivado_HLS\
 ### [zynqnet](https://github.com/dgschwend/zynqnet)
 基于Zynq 实现的相应的CNN加速器的具体内容。
 
+### [Open-Dnn](https://github.com/microideax/Open-Dnn)
+实现了基于FPGA云的深度学习框架的部署，实现了相应的基于框架的加速功能
+
+### [T-DLA](https://github.com/microideax/T-DLA)
+利用verilog 实现的底层的FPGA加速，主要是针对嵌入式设备，使用的是zed borad 的板子，有较高的加速比
+
 ## <span id = "paper">论文阅读</span>
 + 主要包括了一些深度学习相关的论文阅读计划之类的，主要是一些经典论文的推荐和阅读列表。
 
@@ -104,6 +110,9 @@ YOLO源码合集
 
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
+
+### [Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
+机器学习的数学推导，非常细致，值得好评！！！
 
 ### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -269,3 +278,5 @@ B站上炼数成金的公开课笔记
 中文简历模板,latex
 ### [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
+### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+下载youtube 内容，基于命令行的方式
