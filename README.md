@@ -111,6 +111,9 @@ YOLO源码合集
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
 
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+
 ### [Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
 机器学习的数学推导，非常细致，值得好评！！！
 
@@ -280,3 +283,5 @@ B站上炼数成金的公开课笔记
 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
 ### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 下载youtube 内容，基于命令行的方式
+### [vimrc](https://github.com/amix/vimrc)
+一个非常好用和简易的vim配置，使得使用vim变得更方便了
