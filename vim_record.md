@@ -142,3 +142,21 @@ ZZ	|这是大写的 Z 喔！若档案没有更动，则不储存离开，若档�
  - | - 
 :set nu	|显示行号，设定之后，会在每一行的前缀显示该行的行号
 :set nonu	|与 set nu 相反，为取消行号！
+:n | 切换到下一个文件(next)
+:N | 切换到上一个文件
+:sp [filename] | 水平窗口打开另一个文件
+:vsp [filename] | 竖直窗口打开另一个文件
+crtl + w(twice) 或者 ctrl + w 然后上下键 | 在上下窗口切换
+:ls | 展示全部的打开文档
+:xn | 切换到向下的第x个文档
+n ctrl+6 | 切换到第n个buffer
+ctrl+6 或 :e# | 回到前一个编辑文档
+:new [filename] |分屏
+ctrl+w s | 对当前文档内容分屏显示
+ctrl+w q | 关闭所处分屏
+ctrl+w o | 仅显示当前分屏内容
+ctrl+w j k | 上下选择分屏
+:n1,n2 co n3 | 将n1到n2行之间的内容拷贝到n3行下
+:n1,n2 m n3 | 将n1到n2行之间的内容移动到n3行下
+:n1,n2 d | 将n1 到n2行之间的内容删除
+:n1,n2 w!command | 将文件中n1到n2行的内容作为command 的输入并执行
