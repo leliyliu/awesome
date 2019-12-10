@@ -118,6 +118,14 @@ YOLO源码合集
 ### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
 
+### **[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)**  
+
+该仓库收集了诸多计算机科学领域的教程资源，旨在从零开始，教授开发者构建一款完全属于自己的开发工具，其中包括增强现实、区块链、机器人、编辑器、命令行工具、神经网络、操作系统等几大领域。
+
+### **[project-based-learning](https://github.com/tuvtran/project-based-learning)**  
+
+该资料主要汇总整理了一系列编程教程，教你如何从零开始构建一个应用，其中包含 C、C++、Java、PHP、JavaScript、Python 等主流编程语言教程。
+
 ### [Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
 机器学习的数学推导，非常细致，值得好评！！！
 
