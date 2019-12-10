@@ -24,6 +24,10 @@ manage my star projects on github
 ### [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml)
 Machine learning in FPGAs using HLS。一个实现了machine learning 常规算法的hls包， translate traditional open-source machine learning package models into HLS 。
 
+### [PipeCNN       ](https://github.com/doonny/PipeCNN)
+
+北京交通大学的一篇相关论文，主要是用openCL实现的相应处理。
+
 ### [TF2](https://github.com/TF2-Engine/TF2)
 An Open Source Deep Learning Inference Engine Based on FPGA。这应该是浪潮科技最近刚开源的一个基于FPGA的深度学习加速开源工具，有很大的价值。可以移植caffe,tensorflow,pytorch等等。但是这是基于intel 的opencl的，和HLS还有一定的区别，主要借鉴一下即可。
 
@@ -259,8 +263,22 @@ This is the Pytorch implementation of 3D Graph Neural Networks for RGBD Semantic
 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 用于练习
 
+### **[ai-edu](https://github.com/microsoft/ai-edu)**  
+
+微软的人工智能教育与学习共建社区，是用于一个学习的好工具
+
 ## Interesting
 + star了一些有趣的项目，这个分类里面比较杂，但是不多，因此就不多作介绍了。
+### **[MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz)**  
+
+一个相应的可视化的python库，可以用于处理很多东西，包括其中大量的内容
+
+### **[ann-visualizer](https://github.com/Prodicode/ann-visualizer)**  
+
+ A python library for visualizing Artificial Neural Networks (ANN)          
+
+一个相应的python 库，用于神经网络的可视化
+
 ### [themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
 一个蛇皮编辑器，如果在规定时间内没有进行操作，那么将前功尽弃。
 ### [CUMCMThesis](https://github.com/latexstudio/CUMCMThesis)
@@ -287,7 +305,6 @@ B站上炼数成金的公开课笔记
 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
 ### [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 下载youtube 内容，基于命令行的方式
-<<<<<<< HEAD
 
 ### [HackingNeuralNetworks       ](https://github.com/Kayzaks/HackingNeuralNetworks)
 
