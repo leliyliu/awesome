@@ -1,5 +1,10 @@
 
 - [awesome](#awesome)
+    
+    + [MLU](#MLU)
+    
+    + [RISC-V](#RISC-V)
+    
     - [DL ON FPGA](#DL_ON_FPGA)
     - [论文阅读](#paper)
     - [英语学习](#english)
@@ -18,7 +23,46 @@ manage my star projects on github
 
 刚开学，想着要规划一下后面的任务，于是开始了一波整理，今天突然意识到已经在github 上star 了不少项目，有时候想用的时候却找不到了，上网查了一下，发现相关的管理插件和网页也都不太好用，看到一个说法，如果都不愿意整理的star 项目，star起来确实也没什么用，因此还是决定好好整理一下，顺便筛查一波。
 
-## DL_ON_FPGA
+## MLU（machine learning unit)
+
++ MLU 是寒武纪公司（cambricon）发行的相应深度学习加速专用芯片，目前正在使用MLU100 做一个深度神经网络模型的移植，因此也记录这里面的一些相关github项目
+
+### **[CNStream](https://github.com/Cambricon/CNStream)**  
+
+CNStream is a streaming framework for building Cambricon machine learning pipelines。
+
+### **[caffe](https://github.com/Cambricon/caffe)**
+
+这个是MLU所支持的caffe项目，可以利用此再加上caffe_boost两个项目进行相应的caffe模型的移植。
+
+### [mlu-yolov3-yolov3_cpp       ](https://github.com/qianlinjun/mlu-yolov3-yolov3_cpp)
+
+可以在寒武纪mlu上运行的yolov2/yolov3官方示例代码，以及在源代码基础上增加了大幅宽16位tif图像的裁切和16转8bit代码      
+
+### [caffe-yolo       ](https://github.com/xingwangsfu/caffe-yolo)
+
+在caffe 上实现的yolo，可以尝试将其移植到MLU中。
+
+## RISC-V
+
++ RISC-V现在已经很火了，而且对这个新的体系结构也有很大的兴趣，因此记录一下在github上star的一些相关项目，主要也是为了后续做相关的了解和研究提前做准备
+
+### **[riscv-cores-list](https://github.com/riscv/riscv-cores-list)**  
+
+riscv-cores-list 是RISC-V当前开源出来的一些相关core，包括SoC 和 SoC平台，通过看别人的代码可以学习到很多！！
+
+### **[RV12](https://github.com/RoaLogic/RV12)**  
+
+另一个RISC-V的CPU cores，值得学习！！！
+
+### **[e200_opensource](https://github.com/SI-RISCV/e200_opensource)**
+
+蜂鸟e200 CPU，目前一个比较好的开源的RISC-V核，而且有相应的书籍出版，可以参看并进行学习。
+
+### [riscv-tools       ](https://github.com/riscv/riscv-tools)
+
+RISC-V 的工具链，包括了几乎从编译到运行的一系列开发的相应工具。
+
 + 由于最近做的工作主要是关于在FPGA上做深度学习加速，因此在这里记录一下相关的工作，有一些做的比较好的可以借鉴。
 
 ### [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml)
@@ -105,11 +149,23 @@ leetcode解题合集
 ### [YOLO-Reproduce-Summary](https://github.com/amusi/YOLO-Reproduce-Summary)
 YOLO源码合集
 
+### [fast-neural-style       ](https://github.com/jcjohnson/fast-neural-style)
+
+快速风格迁移的github项目，同样的，有可能会需要在寒武纪上面实现，主要是智能计算系统课程的一些要求。
+
 ### [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
 物体检测论文合集
 
 ### [DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm)
 数据挖掘18大算法实现以及其他相关经典DM算法
+
+### **[aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys)**
+
+算法竞赛入门经典第2版-习题选解        
+
+### **[aoapc-book-UVA-solution](https://github.com/richenyunqi/aoapc-book-UVA-solution)** 
+
+《算法竞赛与入门经典》中出现的例题与习题的C++11代码题解 
 
 
 ## book_course
@@ -184,6 +240,22 @@ Companion webpage to the book "Mathematics For Machine Learning"(机器学习数
 AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP 
 资源合集
 
+### **[reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)**
+
+强化学习的基础教程，虽然之前了解了不少的深度学习知识，尤其是CV方面的，但是在很多实际应用中，强化学习占据了重要的地位，建议了解一下。
+
+### **[OpenCL-Tutorials](https://github.com/gcielniak/OpenCL-Tutorials)**
+
+顾名思义，OpenCL教程，OpenCL是用来开发异构计算的一个重要的编程语言，继承于C，目前主要想利用这一语言在FPGA等异构计算平台上进行开发。
+
+### [zju-icicles       ](https://github.com/QSCTech/zju-icicles)
+
+浙大的课程，可以学习学习
+
+### [Coursera-ML-AndrewNg-Notes       ](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+
+黄海广老师写的吴恩达机器学习的个人笔记，可以当做一个机器学习的相关参考书来看待。
+
 ## 龙芯杯
 + 这里主要包括了一些参加龙芯杯的优秀队伍的项目，包括了第一二三届，前两届由于之前总结过，所以我会放在另一个markdown文档中。
 [龙芯杯参考资料](https://github.com/leliyliu/awesome/blob/master/%E9%BE%99%E8%8A%AF%E6%9D%AF%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99.md)
@@ -208,6 +280,10 @@ AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - 
 
 ### [MIPS-OS](https://github.com/BXYMartin/MIPS-OS)
 好像是用MIPS 移植JOS的工作，可以学习一下
+
+### **[Digital-Hardware-Modelling](https://github.com/varunnagpaal/Digital-Hardware-Modelling)**
+
+一个FPGA在不同语言层次上的数字逻辑硬件实现的模板，可以适当进行参考。
 
 ## Go语言
 + 由于最近Go语言比较火，其主要是运用在区块链之类的新兴技术上，所以比较感兴趣，了解了一下go语言编程，把相关的项目也star了一下，有机会可以尝试多写一写go 的相关程序。
@@ -275,6 +351,14 @@ This is the Pytorch implementation of 3D Graph Neural Networks for RGBD Semantic
 
 微软的人工智能教育与学习共建社区，是用于一个学习的好工具
 
+### **[cyaron](https://github.com/luogu-dev/cyaron)**  
+
+洛谷里面的一个样例生成器，主要用来帮助写算法的时候随机生成相关样例。
+
+### **[the-one](https://github.com/akeranen/the-one)**
+
+物联网通信课程中需要用到的一个开源代码，机会网络环境模拟器，很值得学习，也通过这个项目再好好学习一下java，并争取做一个好一点的东西出来。
+
 ## Interesting
 + star了一些有趣的项目，这个分类里面比较杂，但是不多，因此就不多作介绍了。
 ### **[MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz)**  
@@ -321,6 +405,14 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 ### [ Awesome-Hacking ](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 大量的黑客学习资料全纪录，是个全家桶一般的操作，有兴趣可以多多看看
-=======
+
 ### [vimrc](https://github.com/amix/vimrc)
 一个非常好用和简易的vim配置，使得使用vim变得更方便了
+
+### **[image_classification](https://github.com/whut2962575697/image_classification)**
+
+参加datawhale举办的一个公益组队学习活动，然后最后参加比赛的时候的第一名的作品，主要可以通过这个项目了解如何有效地提高图像分类的准确率。
+
+### **[CSXiaLingYing2019](https://github.com/Smlight/CSXiaLingYing2019)**
+
+2019保研夏令营汇总信息，值得参考！
