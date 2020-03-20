@@ -168,6 +168,8 @@ YOLO源码合集
 《算法竞赛与入门经典》中出现的例题与习题的C++11代码题解 
 
 
+
+
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
 
@@ -448,3 +450,7 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 ### [python-small-examples       ](https://github.com/jackzhenguo/python-small-examples)
 
 一些python开发的小例子，包括了很多东西，有Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子s
+
+### [ jittor       ](https://github.com/Jittor/jittor)
+
+清华开发的深度学习开源框架，i了i了
