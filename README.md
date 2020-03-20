@@ -1,6 +1,6 @@
 
 - [awesome](#awesome)
-    
+  
     + [MLU](#MLU)
     
     + [RISC-V](#RISC-V)
@@ -178,6 +178,10 @@ YOLO源码合集
 
 该仓库收集了诸多计算机科学领域的教程资源，旨在从零开始，教授开发者构建一款完全属于自己的开发工具，其中包括增强现实、区块链、机器人、编辑器、命令行工具、神经网络、操作系统等几大领域。
 
+### [computer-science       ](https://github.com/ossu/computer-science)
+
+一个计算机科学的自学路径
+
 ### **[project-based-learning](https://github.com/tuvtran/project-based-learning)**  
 
 该资料主要汇总整理了一系列编程教程，教你如何从零开始构建一个应用，其中包含 C、C++、Java、PHP、JavaScript、Python 等主流编程语言教程。
@@ -294,6 +298,18 @@ AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - 
 ### [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)
 《The Way to Go》中文译本，中文正式名《Go 入门指南》，看就完事。
 
+### [docker       ](https://github.com/findsec-cn/docker)
+
+docker 学习文档，由于这次要在寒武纪上做迁移，而寒武纪的芯片放在的是一个docker容器中。
+
+### [model-compression       ](https://github.com/666DZY666/model-compression)
+
+基于pytorch 的神经网络压缩，做神经网络模型的移植的时候，需要进行相应的量化压缩。
+
+### [Tasks_for_Rookies       ](https://github.com/NKvision428/Tasks_for_Rookies)
+
+南开视觉实验室的新手任务
+
 ## 操作系统
 + 由于以后其实主要还是想从事系统方面的工作，在这方面准备也是比较多的，这边暂时收集了清华的一些操作系统课的资料
 
@@ -324,6 +340,14 @@ jos操作系统2017年相关答案，同时包括了stju 的相关exercise
 ### [jos ](https://github.com/clann24/jos)
 
 一个jos操作系统的实验课代码记录，可以进行借鉴参考，之前学习的时候也参考了一些
+
+### [os_course_exercises       ](https://github.com/chyyuu/os_course_exercises)
+
+清华os课程的一些简单的练习题
+
+### [linux-insides       ](https://github.com/0xAX/linux-insides)
+
+linux 内核的一些简单分析
 
 ## tools
 + 这里主要包含了一些工具，主要是一些相关的插件和python库的介绍，同时也包含一些其它的工具。
@@ -416,3 +440,11 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 ### **[CSXiaLingYing2019](https://github.com/Smlight/CSXiaLingYing2019)**
 
 2019保研夏令营汇总信息，值得参考！
+
+### [coding-interview-university       ](https://github.com/jwasham/coding-interview-university)
+
+一个完整的关于成为一个软件工程师的学习路径
+
+### [python-small-examples       ](https://github.com/jackzhenguo/python-small-examples)
+
+一些python开发的小例子，包括了很多东西，有Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子s
