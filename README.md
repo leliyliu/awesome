@@ -43,6 +43,42 @@ CNStream is a streaming framework for building Cambricon machine learning pipeli
 
 在caffe 上实现的yolo，可以尝试将其移植到MLU中。
 
+## ICS
+
++ 智能计算系统课程，里面有很多需要做的内容，所以单独开一个相应的专题来做
+
+### [BangC-example       ](https://github.com/JamiesZhang/BangC-example)
+
+用寒武纪BangC语言实现的一些简单的算子的例子
+
+### [Cambricon-Test       ](https://github.com/inskil/Cambricon-Test)
+
+同样的，也是用BangC实现的一些小例子，智能计算系统课程最后可能需要的一些东西
+
+### [Cambricon_BangC_Practice       ](https://github.com/liaohsiaopin/Cambricon_BangC_Practice)
+
+在Cambricon编程平台上实现用BangC实现五个算子     
+
+### [SfSNet-Pytorch       ](https://github.com/Mannix1994/SfSNet-Pytorch)
+
+用pytorch实现的SfSNet网络，主要是学习从caffe 移植到 Pytorch 的方式
+
+### [SfSNet-PyTorch       ](https://github.com/bhushan23/SfSNet-PyTorch)
+
+和上面一个类似的，有一些小小的不同
+
+### [PytorchToCaffe       ](https://github.com/xxradon/PytorchToCaffe)
+
+将pytorch model 转换为 caffe model
+
+### [MMdnn       ](https://github.com/microsoft/MMdnn)
+
+一个各种深度学习框架之间进行转换的工具，值得一试，可以在docker上进行
+
+### [tensorflow-fast-style-transfer       ](https://github.com/hwalsuklee/tensorflow-fast-style-transfer)
+
+用tensorflow 实现的风格迁移的例子，也算是本课程一个重要的例子，所以值得一看
+
 ## RISC-V
 
 + RISC-V现在已经很火了，而且对这个新的体系结构也有很大的兴趣，因此记录一下在github上star的一些相关项目，主要也是为了后续做相关的了解和研究提前做准备
@@ -167,13 +203,22 @@ YOLO源码合集
 
 《算法竞赛与入门经典》中出现的例题与习题的C++11代码题解 
 
+### [fucking-algorithm       ](https://github.com/labuladong/fucking-algorithm)
+
+手撕算法，一定要好好学习
+
 
 
 
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
 
+### [Learning-SICP       ](https://github.com/DeathKing/Learning-SICP)
+
+​        MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。      哈工大做的相关字幕，还有很有价值的。
+
 ### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+
 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
 
 ### **[build-your-own-x](https://github.com/danistefanovic/build-your-own-x)**  
@@ -353,7 +398,13 @@ linux 内核的一些简单分析
 
 ## tools
 + 这里主要包含了一些工具，主要是一些相关的插件和python库的介绍，同时也包含一些其它的工具。
+
+### [trackerslist       ](https://github.com/ngosang/trackerslist)
+
+最新的tracker 的列表，加速磁力下载
+
 ### [tflearn](https://github.com/tflearn/tflearn)
+
 tflearn 是tensorflow 所提供的一个高级的API接口。
 
 ### [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
@@ -454,3 +505,11 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 ### [ jittor       ](https://github.com/Jittor/jittor)
 
 清华开发的深度学习开源框架，i了i了
+
+### [2020JSJBaoYan       ](https://github.com/kfwork/2020JSJBaoYan)
+
+【超前持续更新】2020计算机保研夏令营信息分享
+
+### [ MegEngine       ](https://github.com/MegEngine/MegEngine)
+
+​        MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架。又是一个新开源的框架，可以可以，值得好评，国内做系统的越来越多了。
