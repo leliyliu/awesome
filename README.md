@@ -15,6 +15,7 @@
     - [操作系统](#操作系统)
     - [tools](#tools)
     - [Interesting](#Interesting)
+    - [保研](#保研)
 
 
 # <span id = "awesome">awesome</span>
@@ -213,7 +214,11 @@ YOLO源码合集
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
 
-### [Learning-SICP       ](https://github.com/DeathKing/Learning-SICP)
+### [introRL       ](https://github.com/zhoubolei/introRL)
+
+强化学习纲要，能够很好进行学习
+
+### [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
 
 ​        MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。      哈工大做的相关字幕，还有很有价值的。
 
@@ -436,6 +441,10 @@ This is the Pytorch implementation of 3D Graph Neural Networks for RGBD Semantic
 
 物联网通信课程中需要用到的一个开源代码，机会网络环境模拟器，很值得学习，也通过这个项目再好好学习一下java，并争取做一个好一点的东西出来。
 
+### [the-one-pitt ](https://github.com/knightcode/the-one-pitt)
+
+添加并修改了ONE（机会网络模拟器），加上了Bubble Rap
+
 ## Interesting
 + star了一些有趣的项目，这个分类里面比较杂，但是不多，因此就不多作介绍了。
 ### **[MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz)**  
@@ -506,10 +515,20 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 
 清华开发的深度学习开源框架，i了i了
 
-### [2020JSJBaoYan       ](https://github.com/kfwork/2020JSJBaoYan)
-
-【超前持续更新】2020计算机保研夏令营信息分享
-
 ### [ MegEngine       ](https://github.com/MegEngine/MegEngine)
 
 ​        MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架。又是一个新开源的框架，可以可以，值得好评，国内做系统的越来越多了。
+
+## 保研
+
+### [ CSSummerCamp2020       ](https://github.com/hcy226/CSSummerCamp2020)
+
+关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？      
+
+### [baoyan-blog](https://github.com/hcy226/baoyan-blog)
+
+保研博客分享，mark 一下
+
+### [2020JSJBaoYan       ](https://github.com/kfwork/2020JSJBaoYan)
+
+【超前持续更新】2020计算机保研夏令营信息分享
