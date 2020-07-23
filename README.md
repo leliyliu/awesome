@@ -1,6 +1,8 @@
 
 - [awesome](#awesome)
   
+    + [Computer Architecture](#Computer Architecture)
+    
     + [MLU](#MLU)
     
     + [RISC-V](#RISC-V)
@@ -21,8 +23,39 @@
 # <span id = "awesome">awesome</span>
 manage my star projects on github  
 
-
 刚开学，想着要规划一下后面的任务，于是开始了一波整理，今天突然意识到已经在github 上star 了不少项目，有时候想用的时候却找不到了，上网查了一下，发现相关的管理插件和网页也都不太好用，看到一个说法，如果都不愿意整理的star 项目，star起来确实也没什么用，因此还是决定好好整理一下，顺便筛查一波。
+
+## Computer Architecture
+
++ 这里面主要记录了有关体系结构的一些仓库，包括模拟器，代码工具等。
+
+### [PIMSim](https://github.com/vineodd/PIMSim)
+
+存内计算的一个模拟器
+
+### [incubator-tvm](https://github.com/apache/incubator-tvm)
+
+Open deep learning compiler stack for cpu, gpu and specialized accelerators
+
+### [chisel-examples](https://github.com/schoeberl/chisel-examples)
+
+里面包含了一些用chisel 实现的 相应的实例
+
+### [chisel-tutorial](https://github.com/ucb-bar/chisel-tutorial)
+
+学习chisel 需要使用的教程，是比较好的一个，包含了很多的练习和答案的内容
+
+### [almond](https://github.com/almond-sh/almond)
+
+chisel 本身是基于scala 语言的，所以要使用chisel ，需要使用该语言，而almond 是一个可以在jupyter 中应用的scala kernel
+
+### [chisel-bootcamp](https://github.com/freechipsproject/chisel-bootcamp)
+
+另一个学习chisel 的教程，上面所给出的都是一些比较好的教程，还是很有价值和意义的。
+
+### [AutoDNNchip](https://github.com/RICE-EIC/AutoDNNchip)
+
+自动生成DNN 设计的chip ，比较有意思的一个研究，可以看看
 
 ## MLU（machine learning unit)
 
@@ -208,11 +241,17 @@ YOLO源码合集
 
 手撕算法，一定要好好学习
 
+### [Algorithm-challenger](https://github.com/OFShare/Algorithm-challenger)
 
+另一个学习算法的教程
 
 
 ## book_course
 + 主要收集了一些相关的教程书籍，包括机器学习，深度学习等一系列方面的教材和相关教程。
+
+### [InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
+
+《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版，是学习可解释机器学习的一本很好的书籍，值得一读。
 
 ### [introRL       ](https://github.com/zhoubolei/introRL)
 
@@ -404,6 +443,18 @@ linux 内核的一些简单分析
 ## tools
 + 这里主要包含了一些工具，主要是一些相关的插件和python库的介绍，同时也包含一些其它的工具。
 
+### [manim-tutorial-CN](https://github.com/cai-hust/manim-tutorial-CN)
+
+manim中文教程,如果想系统地学习一些用法欢迎进入我的疫情期间搭建的博客
+
+### [mindspore](https://github.com/mindspore-ai/mindspore)
+
+华为开源深度学习编译框架
+
+### [manim](https://github.com/3b1b/manim)
+
+一个数学动画生成器，比较适合于画图
+
 ### [trackerslist       ](https://github.com/ngosang/trackerslist)
 
 最新的tracker 的列表，加速磁力下载
@@ -518,6 +569,10 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 ### [ MegEngine       ](https://github.com/MegEngine/MegEngine)
 
 ​        MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架。又是一个新开源的框架，可以可以，值得好评，国内做系统的越来越多了。
+
+### [FATE](https://github.com/FederatedAI/FATE)
+
+一个联邦学习的基本的学习框架
 
 ## 保研
 
